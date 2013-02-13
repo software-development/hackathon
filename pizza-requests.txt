@@ -2,4 +2,3 @@ Friday:
 - Sausage
 
 Saturday:
-- Cheese
